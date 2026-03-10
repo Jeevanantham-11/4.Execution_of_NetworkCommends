@@ -46,6 +46,34 @@ This commands includes
 • IP Commands
 
 • Other IP Commands e.g. show ip route etc.
+## Algorithm
+Algorithm: Server Ping Program
+
+1. Start the program.
+2. Import socket and pythonping modules.
+3. Create a socket.
+4. Bind the socket to localhost and port 8000.
+5. Listen for client connections.
+6. Accept the client connection.
+7. Receive hostname from the client.
+8. If hostname is "exit", terminate the connection.
+9. Ping the received hostname.
+10. Send the ping result back to the client.
+11. Close the connection.
+12. Stop the program.
+
+Algorithm: Client Ping Request Program
+
+1. Start the program.
+2. Import socket module.
+3. Create a socket.
+4. Connect to the server at localhost port 8000.
+5. Ask the user to enter a hostname or IP address.
+6. Send the hostname to the server.
+7. Receive the ping result from the server.
+8. Display the result.
+9. If user enters "exit", close the connection.
+10. Stop the program.
 
 ## Program
 ```
