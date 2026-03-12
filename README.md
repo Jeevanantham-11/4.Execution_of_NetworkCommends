@@ -148,5 +148,10 @@ nslookup
 netstat
 ```
 ![alt text](<Screenshot 2026-03-12 112520-1.png>)
+
+```
+tcpdump
+```
+![alt text](tcpdump.jpeg)
 ## Result
 Thus Execution of Network commands Performed 
