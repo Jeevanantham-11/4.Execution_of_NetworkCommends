@@ -130,6 +130,23 @@ s.close()
 
 ![alt text](<Screenshot 2026-03-10 211554.png>)
 
+```
+traceroute
+```
+![alt text](<Screenshot 2026-03-12 112925.png>)
 
+```
+ipconfig
+```
+![alt text](<Screenshot 2026-03-12 112606.png>)
+```
+nslookup
+```
+![alt text](<Screenshot 2026-03-12 112736.png>)
+
+```
+netstat
+```
+![alt text](<Screenshot 2026-03-12 112520-1.png>)
 ## Result
 Thus Execution of Network commands Performed 
